@@ -1,0 +1,37 @@
+Login password: chandan1234
+
+After Login some disabled feature will get enable.
+
+
+
+--------------------------------------------------------
+
+Commands or inputs that AIS Chat box UnderStand and Do 
+
+-----Opening browser or site or somethingh like chat------
+
+
+"Hii","Hello","hiii","hello karl"
+"whatsup","whatsup?","How are You","How are You?"
+
+
+"Site Google","open Google"
+"Site youtube","open youtube","youtube"
+"Site facebook","open facebook","facebook" 
+
+
+"open vlc","vlc"
+"play a song for me"
+
+
+"thanks","thank you"
+"clear","clearscreen","clear this screen"
+"hehe","Haha","laugh" 
+
+
+
+
+               
+
+         
+    
